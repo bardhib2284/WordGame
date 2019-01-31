@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordPlay</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="play_game">PLAY GAME</string>
+</resources>
